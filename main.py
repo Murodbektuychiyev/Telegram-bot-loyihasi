@@ -1,7 +1,7 @@
 from translate import translate
 import telebot # pyTelegramBotAPI ning nomi
 
-TOKEN ="INSERT YOUR BOT TOKEN"
+TOKEN ="7869942153:AAEBmPXLTpIBp-BLomEosg-PCbpMR5q3XXU"
 tarjimonbot = telebot.TeleBot(token=TOKEN)
 
 # \start komandasi uchun mas'ul funksiya
